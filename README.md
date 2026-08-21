@@ -45,4 +45,4 @@ Grab the latest release from the download link above.
 
 ## Tips
 > [!TIP]
-> Pin it to your taskbar for quick access.   
+> Pin it to your taskbar for quick access.    
